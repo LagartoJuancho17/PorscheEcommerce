@@ -15,7 +15,7 @@ export default function Navbar() {
           href="/"
           className="text-white text-[11px] font-bold tracking-[0.35em] uppercase"
         >
-          AutoHaus
+          DrillotCar
         </Link>
 
         <div className="hidden sm:flex items-center gap-8">
